@@ -18,7 +18,7 @@ const CONFIG = {
   // └─┘┴ ┴└─┘┴└─┘└─┘
 
   // General
-  name: 'my friend',
+  name: 'Basim',
   imageBackground: true,
   openInNewTab: true,
 
@@ -34,8 +34,8 @@ const CONFIG = {
   weatherIcons: 'OneDark', // 'Nord', 'Dark', 'White'
   weatherUnit: 'C',
   // Use https://www.latlong.net/
-  weatherLatitude: 'XXX',
-  weatherLongitude: 'XXX',
+  weatherLatitude: '43.543027',
+  weatherLongitude: '-79.741562',
   
 
   // ┌─┐┌─┐┬─┐┌┬┐┌─┐
@@ -94,38 +94,38 @@ const CONFIG = {
   lists: {
     firstList: [
       {
-        name: 'Twitter',
-        link: 'https://twitter.com/',
+        name: 'Reddit',
+        link: 'https://reddit.com',
       },
       {
-        name: 'THN',
-        link: 'https://thehackernews.com/',
+        name: 'Goodreads',
+        link: 'https://www.goodreads.com/',
       },
       {
-        name: 'Its FOSS',
-        link: 'https://itsfoss.com/',
+        name: 'Mail',
+        link: 'https://mail.google.com',
       },
       {
-        name: 'EFF',
-        link: 'https://www.eff.org/',
+        name: 'Drive',
+        link: 'https://drive.google.com',
       },
     ],
     secondList: [
       {
-        name: 'Telegram',
-        link: 'https://webk.telegram.org',
+        name: 'Youtube',
+        link: 'https://youtube.com',
       },
       {
-        name: 'Github',
-        link: 'https://github.com/',
+        name: 'Skillshare',
+        link: 'https://www.skillshare.com/',
       },
       {
-        name: 'Hetzner',
-        link: 'https://hetzner.com/',
+        name: 'Discord',
+        link: 'https://discord.com/channels/@me',
       },
       {
-        name: 'Protonmail',
-        link: 'https://mail.protonmail.com/',
+        name: '11anime',
+        link: 'https://11anime.fr/',
       },
     ],
   },
