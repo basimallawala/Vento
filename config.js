@@ -112,8 +112,8 @@ const CONFIG = {
     ],
     secondList: [
       {
-        name: 'Youtube',
-        link: 'https://youtube.com',
+        name: 'Lofi',
+        link: 'https://www.youtube.com/watch?v=5qap5aO4i9A&ab_channel=LofiGirl',
       },
       {
         name: 'Skillshare',
