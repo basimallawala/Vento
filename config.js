@@ -94,8 +94,8 @@ const CONFIG = {
   lists: {
     firstList: [
       {
-        name: 'Reddit',
-        link: 'https://reddit.com',
+        name: 'r/Piracy megathread',
+        link: 'https://reddit.com/r/piracy/wiki/megathread',
       },
       {
         name: 'Goodreads',
