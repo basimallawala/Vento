@@ -30,7 +30,7 @@ const CONFIG = {
 
   // Weather
   // Use openweathermap.org
-  weatherKey: 'XXX',
+  weatherKey: '5ecebc9a702d9501116cc7fb48987207',
   weatherIcons: 'OneDark', // 'Nord', 'Dark', 'White'
   weatherUnit: 'C',
   // Use https://www.latlong.net/
@@ -58,9 +58,9 @@ const CONFIG = {
     },
     {
       id: '3',
-      name: 'Todoist',
-      icon: 'twitch',
-      link: 'https://twitch.tv/',
+      name: 'Notion',
+      icon: 'book-open',
+      link: 'https://notion.so/',
     },
     {
       id: '4',
