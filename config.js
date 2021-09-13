@@ -58,28 +58,16 @@ const CONFIG = {
     },
     {
       id: '3',
-      name: 'Notion',
+      name: 'WordReference - FR',
       icon: 'book-open',
-      link: 'https://notion.so/',
+      link: 'https://www.wordreference.com/enfr/',
     },
     {
       id: '4',
       name: 'Calendar',
       icon: 'calendar',
       link: 'https://calendar.google.com/calendar/r',
-    },
-    {
-      id: '5',
-      name: 'Reddit',
-      icon: 'bookmark',
-      link: 'https://reddit.com',
-    },
-    {
-      id: '6',
-      name: 'Youtube',
-      icon: 'youtube',
-      link: 'https://youtube.com/',
-    },
+    }
   ],
 
   // ┬  ┬┌─┐┌┬┐┌─┐
