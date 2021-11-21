@@ -86,8 +86,8 @@ const CONFIG = {
         link: 'https://reddit.com/r/piracy/wiki/megathread',
       },
       {
-        name: 'Goodreads',
-        link: 'https://www.goodreads.com/',
+        name: 'r/FREEMEDIAHECKYEAH',
+        link: 'https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index',
       },
       {
         name: 'Mail',
@@ -108,8 +108,8 @@ const CONFIG = {
         link: 'https://www.skillshare.com/',
       },
       {
-        name: 'Discord',
-        link: 'https://discord.com/channels/@me',
+        name: 'Brightspace',
+        link: 'https://hdsb.elearningontario.ca/d2l/home',
       },
       {
         name: '11anime',
