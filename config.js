@@ -46,9 +46,9 @@ const CONFIG = {
   cards: [
     {
       id: '1',
-      name: 'Github',
-      icon: 'github',
-      link: 'https://github.com/',
+      name: 'RBC',
+      icon: 'dollar-sign',
+      link: 'https://www.rbcroyalbank.com/personal.html',
     },
     {
       id: '2',
@@ -58,15 +58,15 @@ const CONFIG = {
     },
     {
       id: '3',
-      name: 'WordReference - FR',
-      icon: 'book-open',
-      link: 'https://www.wordreference.com/enfr/',
+      name: 'Albums',
+      icon: 'headphones',
+      link: 'https://docs.google.com/spreadsheets/d/1fEyeQWSv-sHvM2thmASNendO8qsJQgzxBQSwtYRqmwA/edit#gid=705249696',
     },
     {
       id: '4',
-      name: 'Calendar',
-      icon: 'calendar',
-      link: 'https://calendar.google.com/calendar/r',
+      name: 'Finance',
+      icon: 'bar-chart',
+      link: 'https://www.google.com/finance/?tab=re',
     }
   ],
 
@@ -75,41 +75,41 @@ const CONFIG = {
   // ┴─┘┴└─┘ ┴ └─┘
 
   //Icons
-  firstListIcon: 'bookmark',
+  firstListIcon: 'paperclip',
   secondListIcon: 'coffee',
 
   // Links
   lists: {
     firstList: [
       {
-        name: 'r/Piracy megathread',
+        name: 'The Globe & Mail',
         link: 'https://reddit.com/r/piracy/wiki/megathread',
       },
       {
-        name: 'r/FREEMEDIAHECKYEAH',
-        link: 'https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index',
+        name: 'The New York Times',
+        link: 'https://nytimes.com',
       },
       {
-        name: 'Mail',
-        link: 'https://mail.google.com',
+        name: 'The Wall Street Journal',
+        link: 'https://www.wsj.com/',
       },
       {
-        name: 'Drive',
-        link: 'https://drive.google.com',
+        name: 'The Breach Media',
+        link: 'https://breachmedia.ca/',
       },
     ],
     secondList: [
       {
-        name: 'Lofi',
-        link: 'https://www.youtube.com/watch?v=5qap5aO4i9A&ab_channel=LofiGirl',
+        name: 'Python',
+        link: 'file:///C:/Users/basim/OneDrive/Documents/textbooks/Learn%20Python%203%20The%20Hard%20Way.pdf',
       },
       {
-        name: 'Skillshare',
-        link: 'https://www.skillshare.com/',
+        name: 'FIFA World Cup',
+        link: 'https://js.freestreams-live1.com/tsn1-ca/',
       },
       {
-        name: 'Brightspace',
-        link: 'https://hdsb.elearningontario.ca/d2l/home',
+        name: 'TVO Newsletters',
+        link: 'https://us18.campaign-archive.com/home/?u=bcc5290810a7316d184d3ce54&id=eadf6a4c78',
       },
       {
         name: '11anime',
