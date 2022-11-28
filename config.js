@@ -124,8 +124,8 @@ const CONFIG = {
         link: 'https://us18.campaign-archive.com/home/?u=bcc5290810a7316d184d3ce54&id=eadf6a4c78',
       },
       {
-        name: '11anime',
-        link: 'https://11anime.fr/',
+        name: 'AniMixPlay',
+        link: 'https://animixplay.to/',
       },
     ],
   },
