@@ -67,13 +67,13 @@ const CONFIG = {
       name: 'Finance',
       icon: 'bar-chart',
       link: 'https://www.google.com/finance/?tab=re',
-    }
+    },
     {
       id: '5',
       name: 'Exercises',
       icon: 'book-open',
       link: 'https://docs.google.com/document/d/1yEem-4SKOs_EsxTxUkpZMq0dOo4uYq-3RvAumEZgv28/edit',
-    }
+    },
     {
       id: '6',
       name: 'Organic Chemistry Tutor',
