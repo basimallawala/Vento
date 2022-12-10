@@ -95,7 +95,7 @@ const CONFIG = {
     firstList: [
       {
         name: 'The Globe & Mail',
-        link: 'https://reddit.com/r/piracy/wiki/megathread',
+        link: 'https://tgam.ca',
       },
       {
         name: 'The New York Times',
