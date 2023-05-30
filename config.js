@@ -88,7 +88,7 @@ const CONFIG = {
 
   //Icons
   firstListIcon: 'paperclip',
-  secondListIcon: 'coffee',
+  secondListIcon: 'server',
 
   // Links
   lists: {
@@ -112,20 +112,20 @@ const CONFIG = {
     ],
     secondList: [
       {
-        name: 'Python',
-        link: 'file:///C:/Users/basim/OneDrive/Documents/textbooks/Learn%20Python%203%20The%20Hard%20Way.pdf',
+        name: 'Jellyseerr',
+        link: 'http://10.0.0.236:5055',
       },
       {
-        name: 'FIFA World Cup',
-        link: 'https://js.freestreams-live1.com/tsn1-ca/',
+        name: 'Jellyfin',
+        link: 'http://10.0.0.236:8096',
       },
       {
-        name: 'TVO Newsletters',
-        link: 'https://us18.campaign-archive.com/home/?u=bcc5290810a7316d184d3ce54&id=eadf6a4c78',
+        name: 'Radarr',
+        link: 'http://10.0.0.236:7878/',
       },
       {
-        name: 'AniMixPlay',
-        link: 'https://animixplay.to/',
+        name: 'qBittorrent',
+        link: 'http://10.0.0.236:8080/',
       },
     ],
   },
