@@ -127,6 +127,9 @@ const CONFIG = {
         name: 'qBittorrent',
         link: 'http://10.0.0.236:8080/',
       },
+      {
+        name: 'Sonarr',
+        link: 'http://10.0.0.236:8989/',
     ],
   },
 };
