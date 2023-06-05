@@ -130,6 +130,7 @@ const CONFIG = {
       {
         name: 'Sonarr',
         link: 'http://10.0.0.236:8989/',
+      },
     ],
   },
 };
